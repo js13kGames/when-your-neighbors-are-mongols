@@ -1,4 +1,7 @@
 ---
+genres:
+  - shooter
+  - action
 post: https://github.com/Antix-Development/when_mongols_are_your_neighbors/blob/master/POST-MORTEM.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
